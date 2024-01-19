@@ -53,7 +53,7 @@ In the dynamic world of grocery retail, data holds the key to unlocking growth a
 
 - **README.md:** This comprehensive guide, providing an in-depth overview of the project.
 - **Supermart_Grocery_Sales.csv:** The raw CSV dataset, ready for exploration.
-- **Supermart_Grocery_Sales_Analysis.sql:** The T-SQL script, containing the data cleaning and analysis journey.
+- **Supermart_Grocery_SQL_Codes.sql:** The T-SQL script, containing the data cleaning and analysis journey.
 
 ## Skills and Expertise Showcased
 
